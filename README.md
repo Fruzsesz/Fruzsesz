@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Fruzsesz
-- 😄 Pronouns: she/her
-
-
-<!---
-Fruzsesz/Fruzsesz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate coder , C++, and app development 💻. I love solving problems step by step and building practical projects.
+Skills 🛠️
+Languages: C++, JavaScript,
+Tools: VS Code, Clion
+Interests: Algorithms, math puzzles, small electronics ⚡
+Projects 💡
+Budget Tracker App – Mobile money management 💰
+Habit Tracker – Desktop app practice 📝
+Mini Electronics – LEDs & circuits
